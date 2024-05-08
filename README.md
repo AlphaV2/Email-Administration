@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Email Account Management System</h1>
-  <p>This project is an Email Account Management System designed for IT Support Administrators to create email accounts for new hires efficiently. It provides the following functionalities:</p>
+  <p>This  Simple project is an Email Account Management System designed for IT Support Administrators to create email accounts for new hires efficiently. It provides the following functionalities:</p>
   <ul>
     <li>Generates email addresses with the syntax: firstname.lastname@department.company.com</li>
     <li>Determines the department (sales, development, accounting) of the new hire</li>
